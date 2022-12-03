@@ -1,0 +1,12 @@
+name: pmvc-hw4
+dependencies:
+  - python
+  - pip
+  - pip:
+    - notebook
+    - numpy
+    - torch
+    - torchvision
+    - torchdata
+    - tqdm
+    - ipywidgets

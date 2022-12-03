@@ -14,3 +14,9 @@ dependencies:
     - scipy
     - matplotlib
     - Pillow
+
+    - notebook
+    - numpy
+    - scipy
+    - scikit-image
+    - matplotlib
